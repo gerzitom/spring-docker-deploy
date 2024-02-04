@@ -11,3 +11,6 @@ K
 Lbackend/src/main/java/com/company/project/repository/GreetingRepository.java,5/e/5eb5a624cc23c33729a9c47638bf80d04416460a
 y
 Ibackend/src/main/java/com/company/project/controllers/HomeController.java,3/8/38c9cf6c8e61304576353ffba8dc620f2766f314
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
