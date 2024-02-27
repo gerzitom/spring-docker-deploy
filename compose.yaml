@@ -1,6 +1,8 @@
 services:
   backend:
     build: backend
+    image: europe-central2-docker.pkg.dev/hardy-technique-415617/foo-repo/backend
+    platform: linux/amd64
     ports:
       - 8080:8080
     environment:
