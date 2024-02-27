@@ -1,4 +1,4 @@
 steps:
   # running docker-compose
-  - name: 'docker/compose:3.1'
+  - name: 'docker/compose:1.13.1'
     args: ['up', '-d']
